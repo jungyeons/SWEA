@@ -9,6 +9,9 @@
       <sourceFolder url="file://$MODULE_DIR$/문자열옮기기2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/색상환" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/일곱부하의 평균" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/높은곳으로" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/묶음판매" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/피보나치수분배" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
