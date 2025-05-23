@@ -12,6 +12,12 @@
       <sourceFolder url="file://$MODULE_DIR$/높은곳으로" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/묶음판매" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/피보나치수분배" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/XY문자열1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/방울마술" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/피보나치 수 분배1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/행렬정렬" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/공평한 분배" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/증가하는 사탕 수열" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

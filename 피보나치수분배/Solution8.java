@@ -8,8 +8,9 @@ public class Solution8 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int T = scan.nextInt();
+        fib[1] = fib[2] =1;
         for(int i =3; i<=100; i++){
-            fib[i] = fib[i-1]+fib[]
+            fib[i] = fib[i-1]+fib[i-2];
         }
         int N =0;
         for(int t=1; t<=T; t++){
